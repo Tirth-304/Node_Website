@@ -19,3 +19,5 @@ With Async wait, Data is collected and reflected on website.
 Instead of writing repeatative code, I have made components partially and then showed it into Website.
 
 In buttons, I have set Event listners to do perticular task. (i.e. - After user enters city name,it performs validations and reflects data on website)
+
+I have deployed this project on heroku, To visit Website please click here - https://weahter-website.herokuapp.com/
