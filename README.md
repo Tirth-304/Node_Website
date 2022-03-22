@@ -1,6 +1,6 @@
 # Weather_Website
 
-After learning concepts of NodeJs, I have made this Weather Website which can be used to know the weather of perticular city and make plan your trip accordingly.
+After learning concepts of NodeJs, I have made a fully dynamic as well as responsive Weather Website which can be used to know the weather of perticular city and make plan your trip accordingly.
 
 Features
 - This website consist of 3 pages - Home, AboutMe & Weather Page.
