@@ -1,5 +1,7 @@
 # Weather_Website
 
+To visit Website please click here - https://weahter-website.herokuapp.com/
+
 After learning concepts of NodeJs, I have made a fully dynamic as well as responsive Weather Website which can be used to know the weather of perticular city and make plan your trip accordingly.
 
 Features
@@ -20,4 +22,4 @@ Instead of writing repeatative code, I have made components partially and then s
 
 In buttons, I have set Event listners to do perticular task. (i.e. - After user enters city name,it performs validations and reflects data on website)
 
-I have deployed this project on heroku, To visit Website please click here - https://weahter-website.herokuapp.com/
+I have deployed this project on heroku, 
